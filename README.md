@@ -3,8 +3,6 @@
   <h2>I'm diligent-rookie</h2>
 
   <p><strong>Frontend Engineer | Exploring AI</strong></p>
-
-  <img src="https://raw.githubusercontent.com/diligent-rookie/learning-notes-pictures/master/my_avatar.jpg" width="200" />
     
   <br />
 
