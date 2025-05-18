@@ -3,8 +3,6 @@
   <h2>I'm diligent-rookie</h2>
 
   <p><strong>Frontend Engineer | Exploring AI</strong></p>
-    
-  <br />
 
   <p>🛠️ Building performant and interactive web applications.</p>
   <p>🧠 Learning more about AI and its intersection with frontend development.</p>
